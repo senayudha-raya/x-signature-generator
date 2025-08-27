@@ -22,7 +22,6 @@ Ada **2 jenis signature** yang dibutuhkan:
 
 ```
 /signature-tools
-  ├── app-signature-generator.js      # untuk API call (GET/POST/PUT)
   ├── token-signature-generator.js    # untuk generate token
   └── README.md                       # panduan penggunaan
 ```
