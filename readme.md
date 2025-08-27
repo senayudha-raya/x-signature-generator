@@ -6,7 +6,6 @@ Project ini berisi helper script untuk membuat **X-SIGNATURE** sesuai standar **
 Ada **2 jenis signature** yang dibutuhkan:
 
 1. **RSA Signature** → untuk **request access token** (`token-signature-generator.js`)
-2. **HMAC Signature** → untuk **panggilan API SNAP** setelah token didapat (`app-signature-generator.js`)
 
 ---
 
